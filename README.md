@@ -1,4 +1,4 @@
 nationalize-client
 ==================
 
-TODO
+Building the project requires JDK 17 or later.
